@@ -1,2 +1,3 @@
 # Game1
-going to create a game using React.JS + Golang?
+
+Create a Rock Paper Scissors Game using Tensorflow & React through device's camera
